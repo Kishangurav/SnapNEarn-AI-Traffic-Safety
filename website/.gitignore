@@ -26,8 +26,3 @@ Thumbs.db
 # Uploaded/generated files
 uploads/
 backend/uploads/
-
-# Python generated files
-*.jpg
-*.jpeg
-*.png
