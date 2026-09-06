@@ -55,7 +55,7 @@ SnapNEarn is an AI-powered web platform that enables citizens to report traffic 
 
 ## ✨ Features
 
-### User Features
+### User Featuress
 - Secure user registration and authentication
 - Traffic violation reporting with image/video uploads
 - GPS location capture
